@@ -45,7 +45,6 @@ D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\a8cf2dfppi-tdbxkamptv.gz
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\jhfglhz8lm-j5mq2jizvt.gz
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\hiw9pm4v36-06098lyss8.gz
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\60gj6ajnlu-nvvlpmu67g.gz
-D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\nxcwl2xx51-s35ty4nyc5.gz
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\2r6tmbq92r-pj5nd1wqec.gz
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\qnu5f2hnp5-46ein0sx1k.gz
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\qqv9qradhy-v0zj4ognzu.gz
@@ -230,3 +229,4 @@ D:\WebApps\GameOnlineStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Secur
 D:\WebApps\GameOnlineStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\GameOnlineStore.csproj.AssemblyReference.cache
 D:\WebApps\GameOnlineStore\obj\Debug\net9.0\GameOnli.06076209.Up2Date
+D:\WebApps\GameOnlineStore\obj\Debug\net9.0\compressed\nxcwl2xx51-9ejktwanue.gz
